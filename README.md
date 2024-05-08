@@ -59,8 +59,8 @@ PASS
 
 ## Script image demo
 
-*insert image here*
+![Image Demo](https://github.com/gemj98/SeeingAiTesting/blob/main/docs/media/image_demo.png?raw=true)
 
 # Script video demo
 
-*insert video here*
+[Link to video demo](https://gemj98.github.io/SeeingAiTesting)
