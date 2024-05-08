@@ -1,0 +1,92 @@
+{
+  "test_cases": [
+    {
+      "test_number": "01",
+      "words": ["man", "happy"]
+    },
+    {
+      "test_number": "02",
+      "words": ["man", "sad"]
+    },
+    {
+      "test_number": "03",
+      "words": ["man", "angry"]
+    },
+    {
+      "test_number": "04",
+      "words": ["man", "afraid"]
+    },
+    {
+      "test_number": "05",
+      "words": ["man", "disgusted"]
+    },
+    {
+      "test_number": "06",
+      "words": ["woman", "happy"]
+    },
+    {
+      "test_number": "07",
+      "words": ["woman", "sad"]
+    },
+    {
+      "test_number": "08",
+      "words": ["woman", "angry"]
+    },
+    {
+      "test_number": "09",
+      "words": ["woman", "afraid"]
+    },
+    {
+      "test_number": "10",
+      "words": ["woman", "disgusted"]
+    },
+    {
+      "test_number": "11",
+      "words": ["no", "person", "detected"]
+    },
+    {
+      "test_number": "12",
+      "words": ["no", "person", "detected"]
+    },
+    {
+      "test_number": "13",
+      "words": ["woman", "woman", "woman", "happy", "happy", "happy"]
+    },
+    {
+      "test_number": "14",
+      "words": ["man", "man", "man", "sad", "sad", "sad"]
+    },
+    {
+      "test_number": "15",
+      "words": ["man", "woman", "man", "angry", "angry", "angry"]
+    },
+    {
+      "test_number": "16",
+      "words": ["woman", "woman", "afraid", "afraid"]
+    },
+    {
+      "test_number": "17",
+      "words": ["woman", "woman", "man", "disgusted", "sad", "sad"]
+    },
+    {
+      "test_number": "18",
+      "words": ["no", "person", "detected"]
+    },
+    {
+      "test_number": "19",
+      "words": ["man", "happy"]
+    },
+    {
+      "test_number": "20",
+      "words": ["woman", "happy"]
+    },
+    {
+      "test_number": "21",
+      "words": ["man", "happy"]
+    },
+    {
+      "test_number": "22",
+      "words": ["man", "happy"]
+    }
+  ]
+}
