@@ -63,4 +63,4 @@ PASS
 
 # Script video demo
 
-[Link to video demo](https://gemj98.github.io/SeeingAiTesting)
+[Link to video demo](https://gemj98.github.io/seeing-ai-testing)
